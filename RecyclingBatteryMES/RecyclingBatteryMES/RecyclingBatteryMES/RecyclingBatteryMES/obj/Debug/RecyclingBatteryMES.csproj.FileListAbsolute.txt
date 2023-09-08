@@ -1,0 +1,167 @@
+C:\Users\Admin\source\repos\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\RecyclingBatteryMES.exe.config
+C:\Users\Admin\source\repos\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\RecyclingBatteryMES.exe
+C:\Users\Admin\source\repos\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\RecyclingBatteryMES.pdb
+C:\Users\Admin\source\repos\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.Properties.Resources.resources
+C:\Users\Admin\source\repos\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.Views.DashboardView.resources
+C:\Users\Admin\source\repos\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.exe
+C:\Users\Admin\source\repos\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.pdb
+C:\Users\Admin\source\repos\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.exe.config
+C:\Users\Admin\source\repos\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\source\repos\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Memory.dll
+C:\Users\Admin\source\repos\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\source\repos\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\source\repos\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\source\repos\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\source\repos\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Buffers.dll
+C:\Users\Admin\source\repos\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\source\repos\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.csproj.CopyComplete
+C:\Users\Admin\source\repos\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.Views.OrderView.resources
+C:\Users\Admin\source\repos\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.Views.ProcessView.resources
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\RecyclingBatteryMES.exe.config
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\RecyclingBatteryMES.exe
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\RecyclingBatteryMES.pdb
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.Properties.Resources.resources
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.Views.DashboardView.resources
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.Views.OrderView.resources
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.Views.ProcessView.resources
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.csproj.CopyComplete
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.exe
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.pdb
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\RecyclingBatteryMES.exe.config
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\RecyclingBatteryMES.exe
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\RecyclingBatteryMES.pdb
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.Properties.Resources.resources
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.Views.DashboardView.resources
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.Views.OrderView.resources
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.Views.ProcessView.resources
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.csproj.CopyComplete
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.exe
+C:\Users\Admin\Desktop\새 폴더\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.pdb
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\RecyclingBatteryMES.exe.config
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\RecyclingBatteryMES.exe
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\RecyclingBatteryMES.pdb
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Memory.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Memory.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.Properties.Resources.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.Views.DashboardView.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.Views.OrderView.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.Views.ProcessView.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.csproj.CopyComplete
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.exe
+C:\Users\Admin\Documents\카카오톡 받은 파일\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.pdb
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\RecyclingBatteryMES.exe.config
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\RecyclingBatteryMES.exe
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\RecyclingBatteryMES.pdb
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.Properties.Resources.resources
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.Views.DashboardView.resources
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.Views.DeliveryView.resources
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.Views.OrderView.resources
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.Views.ProcessView.resources
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.csproj.CopyComplete
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.exe
+C:\Users\Admin\Desktop\test\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\RecyclingBatteryMES\obj\Debug\RecyclingBatteryMES.pdb
